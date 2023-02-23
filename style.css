@@ -1,0 +1,131 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+   margin: 0;
+   background-color: #553939;
+   background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjEwMTAtcGF0dGVybi0wNF8xLWtzcXlvcWJjLmpwZw.jpg);
+  
+   
+}
+
+header{
+    background-color: #736453;
+    width: 100%;
+    font-style: italic;
+    margin: 0;
+    padding: 0;
+}
+
+header nav a{
+    padding: 10px 15px;
+    color: antiquewhite;
+    display: inline-block;
+    text-decoration: none;
+}
+
+header nav a:hover{
+    background-color: #423530;
+}
+
+h1{
+    font-size: 30px;
+    text-shadow: 2px 2px 4px #736453 ;
+    margin-left: 12px;
+    color: antiquewhite;
+    font-style: italic;
+   
+}
+
+ul{
+    list-style-type: square;
+    font-size: 17px;
+    color: antiquewhite;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+ul li a{
+    text-decoration: none;
+    font-size: 17px;
+    color: antiquewhite;
+
+}
+
+img{
+    display: block;
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+    border: 10px double #736453;
+    border-radius: 25px;
+    position: relative;
+    animation-name: mymove;
+    animation-duration: 2s;
+
+}
+
+h5{
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style:double;
+    text-shadow: 5px 5px 5px #736453;
+    font-size:17px;
+    color: antiquewhite ;
+    position: relative;
+    animation-name: mymove;
+    animation-duration: 2s;
+}
+
+footer{
+    background-color: #736453;
+    background: radius 50px;
+    color: antiquewhite;
+    max-width: calc(100% - 1.6rem);
+    width: 100%;
+    margin: 0;
+    padding: 10px 16%;
+    display: block;
+   
+}
+
+.footer_part1{
+   
+    margin-left: 300px;
+    font-size: 25px;
+    
+}
+
+.footer_part2{
+    
+    margin-left: 600px;
+    font-style: bold;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
